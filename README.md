@@ -1,4 +1,4 @@
-## WELCOME I AM A FRONT AND MOBILE DEVELOPER/ REACT, REACT NATIVE ⚡! 
+## WELCOME !, I'M FRONT AND MOBILE DEVELOPER/ REACT, REACT NATIVE ⚡! 
 ## Below is a quick summary of this github and my experience !
  <div>
   <a href="https://github.com/gerssivaldosantos">
