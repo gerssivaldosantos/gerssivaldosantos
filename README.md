@@ -1,5 +1,6 @@
-## WELCOME !, I'M FRONT AND MOBILE DEVELOPER/ REACT, REACT NATIVE ⚡! 
-## Below is a quick summary of this github and my experience !
+<h1>Hi, I'm Front and Mobile Developer Javascript<h1/>
+<h2>Welcome to my work and journey ⚡!<h2/>
+<h3>Below is a quick summary of this github and my experience <h3/>
  <div>
   <a href="https://github.com/gerssivaldosantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerssivaldosantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
