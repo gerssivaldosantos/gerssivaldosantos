@@ -1,4 +1,4 @@
-<h1>Hi, I'm Front and Mobile Developer Javascript<h1/>
+<h1>Hi, i'm Gerssivaldo, and i make mobiles and web app in Javascript and automations in Python<h1/>
 <h2>Welcome to my work and journey ⚡!<h2/>
 <h3>Below is a quick summary of this github and my experience <h3/>
  <div>
