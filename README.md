@@ -1,5 +1,13 @@
 <h1>Hi, i'm Gerssivaldo<h1/>
 <h2>Welcome to my work and journey ⚡!<h2/>
+
+
+**[🌍 My Website](https://gerssivaldosantos.github.io/)&nbsp; - &nbsp;[🧑‍💼 LinkedIn Profile](https://www.linkedin.com/in/gerssivaldo-santos-a75921130/)**
+
+
+
+
+
 <h3>Below is a quick summary of this github and my experience <h3/>
  <div>
   <a href="https://github.com/gerssivaldosantos">
@@ -11,9 +19,7 @@
  
 <div> 
 
-  <a href="https://instagram.com/gess.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  <a href="https://www.linkedin.com/in/gerssivaldo-santos-a75921130/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
 </div>
 
