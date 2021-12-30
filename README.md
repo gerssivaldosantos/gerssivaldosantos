@@ -1,4 +1,4 @@
-<h1>Hi, i'm Gerssivaldo<h1/>
+<h1>Hi, i'm Gerssivaldo
 <h2>Welcome to my work and journey ⚡!<h2/>
 
 
