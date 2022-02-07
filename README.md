@@ -1,5 +1,5 @@
 <h1>Hi, i'm Gerssivaldo
-<h2>Welcome to my work and my fun⚡!<h2/>
+<h2>Welcome to my work and my fun⚡! <h2/>
 
 
 **[🌍 My Website](https://gerssivaldosantos.github.io/)&nbsp; - &nbsp;[🧑‍💼 LinkedIn Profile](https://www.linkedin.com/in/gerssivaldo-santos-a75921130/)**
