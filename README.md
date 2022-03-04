@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Vue.js and Nest.js**
 
-- 📝 I regularly write articles on [https://medium.com/@gerssivaldo.dev](https://medium.com/@gerssivaldo.dev)
-
 - 📫 How to reach me **gerssivaldo.dev@gmail.com**
 
 - ⚡ Fun fact **I'm a linux enthusiast and I love testing new distributions and making changes to my desktop. My favorite distro is Arch**
@@ -20,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gerssivaldo-santos-a75921130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerssivaldo-santos-a75921130" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12881961/gerssivaldo-santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12881961/gerssivaldo-santos" height="30" width="40" /></a>
 <a href="https://medium.com/@gerssivaldo.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gerssivaldo.dev" height="30" width="40" /></a>
 </p>
 
