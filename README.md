@@ -13,6 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to debug Node with Typescript in Visual Studio Code&lpar; ts-node-dev&rpar;](https://medium.com/@gerssivaldo.dev/how-to-debug-node-with-typescript-in-visual-studio-code-ts-node-dev-d8329cb266c2?source=rss-263769d64d99------2)
+- [How to create conditional validations in class-validator](https://medium.com/@gerssivaldo.dev/how-to-create-conditional-validations-in-class-validator-9aaad72d70f6?source=rss-263769d64d99------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
