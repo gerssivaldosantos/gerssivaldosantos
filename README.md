@@ -1,30 +1,31 @@
-<h1>Hi, i'm Gerssivaldo
-<h2>Welcome to my work and my fun⚡! <h2/>
+<h1 align="center">Hi 👋, I'm Gerssivaldo</h1>
+<h3 align="center">Welcome to my work and my fun ⚡!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerssivaldosantos&label=Visitors%20since%2004/03/2022&color=650b5e&style=plastic" alt="gerssivaldosantos" /> </p>
 
-**[🌍 My Website](https://gerssivaldosantos.github.io/)&nbsp; - &nbsp;[🧑‍💼 LinkedIn Profile](https://www.linkedin.com/in/gerssivaldo-santos-a75921130/)**
+- 🔭 I’m currently working on [Notoriun (FullStack Development)](http://notoriun.com.br/new_site/)
 
+- 🌱 I’m currently learning **Vue.js and Nest.js**
 
+- 📝 I regularly write articles on [https://medium.com/@gerssivaldo.dev](https://medium.com/@gerssivaldo.dev)
 
+- 📫 How to reach me **gerssivaldo.dev@gmail.com**
 
+- ⚡ Fun fact **I'm a linux enthusiast and I love testing new distributions and making changes to my desktop. My favorite distro is Arch**
 
-<h3>Below is a quick summary of this github and my experience <h3/>
- <div>
-  <a href="https://github.com/gerssivaldosantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerssivaldosantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-
-  
-  ##
- 
-<div> 
-
-
- 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gerssivaldo-santos-a75921130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerssivaldo-santos-a75921130" height="30" width="40" /></a>
+<a href="https://medium.com/@gerssivaldo.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gerssivaldo.dev" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://flutter.dev/" target="_blank"> <img src="https://i.pinimg.com/originals/6d/b1/59/6db159df526b6f5584902ebc21daca88.png" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://ms-ossdata.gallerycdn.vsassets.io/extensions/ms-ossdata/vscode-postgresql/0.3.0/1586995425912/Microsoft.VisualStudio.Services.Icons.Default" alt="p" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerssivaldosantos&show_icons=true&theme=dark&title_color=f7f7f7&text_color=dedede&bg_color=292929&locale=en" alt="gerssivaldosantos" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerssivaldosantos&theme=dark" alt="gerssivaldosantos" /></p>
