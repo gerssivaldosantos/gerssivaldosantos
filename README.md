@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gerssivaldo</h1>
 <h3 align="center">Welcome to my work and my fun ⚡!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerssivaldosantos&label=Visitors%20since%2004/03/2022&color=650b5e&style=plastic" alt="gerssivaldosantos" /> </p>
