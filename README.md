@@ -1,7 +1,5 @@
 <h3 align="center">Welcome to my work and my fun ⚡!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerssivaldosantos&label=Visitors%20since%2004/03/2022&color=650b5e&style=plastic" alt="gerssivaldosantos" /> </p>
-
 - 🔭 I’m currently working on [Notoriun (FullStack Development)](http://notoriun.com.br/new_site/)
 
 - 🌱 I’m currently learning **Vue.js and Nest.js**
