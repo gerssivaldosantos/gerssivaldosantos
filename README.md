@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Notoriun (FullStack Development)](http://notoriun.com.br/new_site/)
 
-- 🌱 I’m currently learning **Vue.js and Nest.js**
+- 🌱 I’m currently learning **Vue.js and Node.js**
 
 - 📫 How to reach me **gerssivaldo.dev@gmail.com**
 
