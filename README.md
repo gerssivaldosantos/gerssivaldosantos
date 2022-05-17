@@ -10,6 +10,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Como instalar o Google Chrome em distros baseadas em Arch](https://medium.com/@gerssivaldo.dev/como-instalar-o-google-chrome-em-distros-baseadas-em-arch-53f8f87a1ea6?source=rss-263769d64d99------2)
 - [How to debug Node with Typescript in Visual Studio Code&lpar; ts-node-dev&rpar;](https://medium.com/@gerssivaldo.dev/how-to-debug-node-with-typescript-in-visual-studio-code-ts-node-dev-d8329cb266c2?source=rss-263769d64d99------2)
 - [How to create conditional validations in class-validator](https://medium.com/@gerssivaldo.dev/how-to-create-conditional-validations-in-class-validator-9aaad72d70f6?source=rss-263769d64d99------2)
 <!-- BLOG-POST-LIST:END -->
