@@ -1,8 +1,8 @@
 <h3 align="center">Welcome to my work and my fun ⚡!</h3>
 
-- 🔭 I’m currently working on [Notoriun (FullStack Development)](http://notoriun.com.br/new_site/)
+- 🔭 I’m currently working at [Notoriun (FullStack Development)](http://notoriun.com.br/new_site/)
 
-- 🌱 I’m currently learning **Vue.js and Node.js**
+- 🌱 I’m currently learning **GraphQl**
 
 - 📫 How to reach me **gerssivaldo.dev@gmail.com**
 
