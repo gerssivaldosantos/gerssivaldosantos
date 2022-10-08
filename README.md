@@ -28,7 +28,7 @@
 <div style="display: flex; align-items: flex-end; flex-direction: column">
 <img height="250rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerssivaldosantos&theme=dracula"/>
 <div> 
-<img height="200rem" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerssivaldosantos&theme=dracula"/>
-<img height="200rem" src="https://streak-stats.demolab.com?user=gerssivaldosantos&theme=dracula"/>
+<img height="170rem" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerssivaldosantos&theme=dracula"/>
+<img height="170rem" src="https://streak-stats.demolab.com?user=gerssivaldosantos&theme=dracula"/>
 </div>
 </div>
