@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [Notoriun (FullStack Development)](http://notoriun.com.br/new_site/)
 
-- 🌱 I’m currently learning **GraphQl**
+- 🌱 I’m currently learning **Domain Driven Design**
 
 - 📫 How to reach me **gerssivaldo.dev@gmail.com**
 
