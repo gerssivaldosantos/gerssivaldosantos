@@ -1,6 +1,6 @@
 <h3 align="center">Welcome to my work and my fun ⚡!</h3>
 
-- 🔭 I’m currently working at [Notoriun (FullStack Development)](http://notoriun.com.br/new_site/)
+- 🔭 I’m currently working at [Brandlovers](http://brandlovers.ai)
 
 - 🌱 I’m currently learning **Domain Driven Design**
 
