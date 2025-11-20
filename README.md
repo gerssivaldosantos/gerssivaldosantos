@@ -1,8 +1,8 @@
 <h3 align="center">Welcome to my work and my fun ⚡!</h3>
 
-- 🔭 I’m currently working at [Brandlovers](http://brandlovers.ai)
+- 🔭 I’m currently working at [The Crawler]([http://brandlovers.ai](https://www.thecrawler.ai/))
 
-- 🌱 I’m currently learning **Domain Driven Design**
+- 🌱 I’m currently learning **Islands of Concurrency + Predictive Prefetching with Graph Neural Models**
 
 - 📫 How to reach me **gerssivaldo.dev@gmail.com**
 
