@@ -48,15 +48,15 @@ On the side, I'm building a **SaaS that applies AI to agriculture** — turning 
 
 ### Currently
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="14" /> &nbsp;**Shipping** AI-powered marketing intelligence @ The Crawler
+🚀 **Shipping** AI-powered marketing intelligence @ The Crawler
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="14" /> &nbsp;**Building** an AgTech SaaS — AI for soil & crop management
+🌱 **Building** an AgTech SaaS — AI for soil & crop management
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="14" /> &nbsp;**Deep diving** into multi-agent systems, prompt engineering & LLM observability
+🧠 **Deep diving** into multi-agent systems, prompt engineering & LLM observability
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="14" /> &nbsp;**OS** Arch Linux — btw
+🐧 **OS** Arch Linux — btw
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="14" /> &nbsp;**Writing** on [Medium](https://medium.com/@gerssivaldo.dev)
+✍️ **Writing** on [Medium](https://medium.com/@gerssivaldo.dev)
 
 </td>
 </tr>
@@ -132,10 +132,10 @@ On the side, I'm building a **SaaS that applies AI to agriculture** — turning 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" width="28" /> &nbsp;Trophies
+## 🏆 &nbsp;Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gerssivaldosantos&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=8" width="98%" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=gerssivaldosantos&theme=onestar&no-frame=true&column=7&margin-w=8&margin-h=8" width="98%" />
 </div>
 
 ---
@@ -163,18 +163,6 @@ On the side, I'm building a **SaaS that applies AI to agriculture** — turning 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerssivaldosantos&theme=github_dark" width="98%" />
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gerssivaldosantos/gerssivaldosantos/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gerssivaldosantos/gerssivaldosantos/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/gerssivaldosantos/gerssivaldosantos/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
