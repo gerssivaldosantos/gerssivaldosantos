@@ -64,44 +64,6 @@ On the side, I'm building a **SaaS that applies AI to agriculture** — turning 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;What I Do
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((AI Engineering))
-    LLM Systems
-      Multi-agent orchestration
-      Aggregator-Judge patterns
-      Structured output & JSON repair
-      Rolling chat summarization
-      Google Search grounding
-    Observability
-      Langfuse traces & spans
-      Versioned prompt management
-      Token usage & cost tracking
-      Quality evaluation pipelines
-    Backend
-      Go + Gin + Neo4j
-      Python + FastAPI
-      Async workers — Redis & Asynq
-      Graph DB modeling & vector search
-    Frontend
-      Next.js 15 + React 19
-      Rich text editors — Lexical
-      Geospatial maps — Leaflet
-      Real-time AI chat interfaces
-    Product Domains
-      Marketing Intelligence & SEO
-      AgTech — AI for agriculture
-      SaaS — multi-tenant, billing, auth
-```
-
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
