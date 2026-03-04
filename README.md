@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=180&section=header&text=Gerssivaldo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%C2%B7%20AI%20Engineering%20%C2%B7%20Full-Stack%20%C2%B7%20LLMOps&descSize=16&descAlignY=52&descColor=E2E8F0" />
 
 <div align="center">
+  <img src="./gerssi%20hashira.gif" width="200" />
+  <br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=480&height=40&lines=AI+Engineer+%2B+Full-Stack+Dev;Multi-agent+systems+in+production;LLMOps+%C2%B7+Langfuse+%C2%B7+Prompt+Engineering;AI+applied+to+Agriculture+%F0%9F%8C%B1;Go+%C2%B7+Python+%C2%B7+TypeScript;Arch+Linux+%F0%9F%90%A7+btw)](https://git.io/typing-svg)
 
